@@ -1,0 +1,10 @@
+{
+    "name": "HexGLChromeTilt",
+    "version": "0.0.1",
+    "description": "Control HexGL with phone tilt",
+    "dependencies": {
+        "express": "3.x",
+        "socket.io": "^0.9.19"
+    },
+    "author": "Robert Devitt, rdevitt@artandlogic.com"
+}
